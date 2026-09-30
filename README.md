@@ -1,4 +1,4 @@
-##Sistema simples desenvolvido em Python para calcular a média de um aluno e informar se ele foi aprovado ou reprovado.
+Sistema simples desenvolvido em Python para calcular a média de um aluno e informar se ele foi aprovado ou reprovado.
 
 ## Tecnologias Utilizadas
 
